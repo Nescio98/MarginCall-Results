@@ -2,6 +2,11 @@
 
 **QQQ Mean Reversion** is a trading strategy for QQQ(Nasdaq) that takes into account RSI and IBS indicators
 
+Live backtest result at this [link](https://margincall.w3spaces.com/QQQ_Mean_Reversion.html)
+
+## Result comparison with Buy and Hold
+![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/assets/101431140/8534e5fe-67ab-402b-9566-bd732bd754ca)
+
 
 
 |           | Returns % | Buy and Hold | Number of trades | % of winning trades | Max_drawdown | Avg_drawdown | Exposure_time % |
@@ -28,6 +33,9 @@
 | 2019-2020 |   1.86     |     40.1       |         3               |         66.67             |     -3.13       |     -2.67       |       5.56            |
 | 2020-2021 |   19.57   |     45.93     |         5               |         100.0             |     -4.96       |     -3.37       |       7.91            |
 | 2021-2022 |   9.36     |     26.83     |         5               |         100.0             |     -2.09       |     -1.0         |       7.94            |
+
+
+
 
 
 Start                     2000-01-03 00:00:00
