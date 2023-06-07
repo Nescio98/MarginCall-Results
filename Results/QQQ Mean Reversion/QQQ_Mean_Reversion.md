@@ -1,4 +1,10 @@
-|            | Returns % | Buy and Hold | Number of trades | % of winning trades | Max_drawdown | Avg_drawdown | Exposure_time % |
+# Backtest results of QQQ Mean Reversion
+
+**QQQ Mean Reversion** is a trading strategy for QQQ(Nasdaq) that takes into account RSI and IBS indicators
+
+
+
+|           | Returns % | Buy and Hold | Number of trades | % of winning trades | Max_drawdown | Avg_drawdown | Exposure_time % |
 |-----------|-----------|--------------|------------------|---------------------|--------------|--------------|-----------------|
 | 2000-2001 |   70.11   |     -36.0     |         9               |         88.89            |     -12.6       |     -5.55       |       14.29          |
 | 2001-2002 |   11.58   |     -31.17   |         9               |         77.78            |     -17.3       |     -6.0         |       19.76          |
@@ -22,3 +28,32 @@
 | 2019-2020 |   1.86     |     40.1       |         3               |         66.67             |     -3.13       |     -2.67       |       5.56            |
 | 2020-2021 |   19.57   |     45.93     |         5               |         100.0             |     -4.96       |     -3.37       |       7.91            |
 | 2021-2022 |   9.36     |     26.83     |         5               |         100.0             |     -2.09       |     -1.0         |       7.94            |
+
+
+Start                     2000-01-03 00:00:00
+End                       2023-06-07 00:00:00
+Duration                   8556 days 00:00:00
+Exposure Time [%]                   11.518236
+Equity Final [$]                177342.875828
+Equity Peak [$]                 177342.875828
+Return [%]                        1673.428758
+Buy & Hold Return [%]              269.034305
+Return (Ann.) [%]                   13.079637
+Volatility (Ann.) [%]               14.386543
+Sharpe Ratio                         0.909158
+Sortino Ratio                        2.017805
+Calmar Ratio                         0.670973
+Max. Drawdown [%]                  -19.493541
+Avg. Drawdown [%]                   -3.429956
+Max. Drawdown Duration      218 days 00:00:00
+Avg. Drawdown Duration       37 days 00:00:00
+# Trades                                  149
+Win Rate [%]                        83.892617
+Best Trade [%]                      16.783713
+Worst Trade [%]                     -12.69852
+Avg. Trade [%]                        1.95076
+Max. Trade Duration          18 days 00:00:00
+Avg. Trade Duration           6 days 00:00:00
+Profit Factor                        6.600219
+Expectancy [%]                       2.005584
+SQN                                  7.285934
