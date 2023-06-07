@@ -35,33 +35,48 @@ Live backtest result at this [link](https://margincall.w3spaces.com/QQQ_Mean_Rev
 | 2021-2022 |   9.36     |     26.83     |         5               |         100.0             |     -2.09       |     -1.0         |       7.94            |
 
 
+## Compounded results over 23 years
+
+The **final equity** since January 2000 looks is **1673%** of the initial capital, starting with 10 000 in equity and allocating 100% of equity to every trade, ie. compounding, including 0.05% broker's fees on each trade
+
+### Strenghts:
+* It never had a negative yearly return in the last 23 years
+* Maximum drawdown of -19%
+* Exposure time of only 11%
 
 
+| Metric                     | Value              |
+|----------------------------|--------------------|
+| Start                      | 2000-01-03 00:00:00|
+| End                        | 2023-06-07 00:00:00|
+| Duration                   | 8556 days 00:00:00 |
+| Exposure Time [%]          | 11.518236          |
+| Equity Final [$]           | 177342.875828      |
+| Equity Peak [$]            | 177342.875828      |
+| Return [%]                 | 1673.428758        |
+| Buy & Hold Return [%]      | 269.034305         |
+| Return (Ann.) [%]          | 13.079637          |
+| Volatility (Ann.) [%]      | 14.386543          |
+| Sharpe Ratio               | 0.909158           |
+| Sortino Ratio              | 2.017805           |
+| Calmar Ratio               | 0.670973           |
+| Max. Drawdown [%]          | -19.493541         |
+| Avg. Drawdown [%]          | -3.429956          |
+| Max. Drawdown Duration     | 218 days 00:00:00  |
+| Avg. Drawdown Duration     | 37 days 00:00:00   |
+| # Trades                   | 149                |
+| Win Rate [%]               | 83.892617          |
+| Best Trade [%]             | 16.783713          |
+| Worst Trade [%]            | -12.69852          |
+| Avg. Trade [%]             | 1.95076            |
+| Max. Trade Duration        | 18 days 00:00:00   |
+| Avg. Trade Duration        | 6 days 00:00:00    |
+| Profit Factor              | 6.600219           |
+| Expectancy [%]             | 2.005584           |
+| SQN                        | 7.285934           |
 
-Start                     2000-01-03 00:00:00
-End                       2023-06-07 00:00:00
-Duration                   8556 days 00:00:00
-Exposure Time [%]                   11.518236
-Equity Final [$]                177342.875828
-Equity Peak [$]                 177342.875828
-Return [%]                        1673.428758
-Buy & Hold Return [%]              269.034305
-Return (Ann.) [%]                   13.079637
-Volatility (Ann.) [%]               14.386543
-Sharpe Ratio                         0.909158
-Sortino Ratio                        2.017805
-Calmar Ratio                         0.670973
-Max. Drawdown [%]                  -19.493541
-Avg. Drawdown [%]                   -3.429956
-Max. Drawdown Duration      218 days 00:00:00
-Avg. Drawdown Duration       37 days 00:00:00
-# Trades                                  149
-Win Rate [%]                        83.892617
-Best Trade [%]                      16.783713
-Worst Trade [%]                     -12.69852
-Avg. Trade [%]                        1.95076
-Max. Trade Duration          18 days 00:00:00
-Avg. Trade Duration           6 days 00:00:00
-Profit Factor                        6.600219
-Expectancy [%]                       2.005584
-SQN                                  7.285934
+
+## Comparison with TLT_Weekdays_Flip
+![image_2023-06-07_01-51-10](https://github.com/Nescio98/MarginCall-Results/assets/101431140/0f55e943-c97a-4d1f-ae9c-dbbb128cac3c)
+
+
