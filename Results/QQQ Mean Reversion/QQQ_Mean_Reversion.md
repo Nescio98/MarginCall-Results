@@ -2,7 +2,7 @@
 
 **QQQ Mean Reversion** is a trading strategy for QQQ(Nasdaq) that takes into account RSI and IBS indicators
 
-Live backtest result at this [link](https://margincall.w3spaces.com/QQQ_Mean_Reversion.html)
+Live backtest result at this [link](https://nescio98.github.io/MarginCall-Results/QQQ_Mean_Reversion.html)
 
 ## Result comparison with Buy and Hold
 ![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/assets/101431140/8534e5fe-67ab-402b-9566-bd732bd754ca)
