@@ -8,8 +8,8 @@ Live backtest result at this [link](https://nescio98.github.io/MarginCall-Result
 
 * [Result comparison with Buy and Hold](#result-comparison-with-buy-and-hold)
 * [Results year per year](#results-year-by-year)
-* [Results compounding](#results-compounding)
-* [Comparison with TLT](#comparison-with-tlt)
+* [Results compounding](#compounded-results-over-23-years)
+* [Comparison with TLT](#comparison-with-tlt_weekdays_flip)
 
 
 ## Result comparison with Buy and Hold
