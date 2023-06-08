@@ -10,7 +10,7 @@
  * **Simone Palladino** as *Software Engineer*
  * **Saad Lulu** as *Software Developer*
 
-## Our Strategies (Work in progress ⚙️)
+## Our Strategies ( Work in progress ⚙️)
 For each strategy you can find in our [Results](/Results) folder the **live backtest result**, the **simulation year by year** and the **compounded result**, along with details like the *maximum drawdown*, *% of exposure time*, *number of total trades* and so on.
 * [QQQ Mean Reversion](/Results/QQQ_Mean_Reversion.md)
 * [TLT Weekdays Flip](/Results/TLT_Weekdays_Flip.md)
