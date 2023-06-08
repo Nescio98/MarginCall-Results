@@ -4,6 +4,14 @@
 
 Live backtest result at this [link](https://nescio98.github.io/MarginCall-Results/QQQ_Mean_Reversion.html)
 
+# Index
+
+* [Result comparison with Buy and Hold](#result-comparison-with-buy-and-hold)
+* [Results year per year](#results-year-per-year)
+* [Results compounding](#results-compounding)
+* [Comparison with TLT](#comparison-with-tlt)
+
+
 ## Result comparison with Buy and Hold
 ![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/assets/101431140/8534e5fe-67ab-402b-9566-bd732bd754ca)
 
@@ -37,7 +45,7 @@ Live backtest result at this [link](https://nescio98.github.io/MarginCall-Result
 
 ## Compounded results over 23 years
 
-The **final equity** since January 2000 looks is **1673%** of the initial capital, starting with 10 000 in equity and allocating 100% of equity to every trade, ie. compounding, including 0.05% broker's fees on each trade
+The **final equity** since January 2000 is **1673%** of the initial capital, starting with **10 000 USD** and **allocating 100%** of equity to every trade, ie. **compounding**, including **0.05% broker's fees** on each trade
 
 ### Strenghts:
 * It never had a negative yearly return in the last 23 years
@@ -77,6 +85,7 @@ The **final equity** since January 2000 looks is **1673%** of the initial capita
 
 
 ## Comparison with TLT_Weekdays_Flip
+This is an interesting comparison to another strategy we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
 ![image_2023-06-07_01-51-10](https://github.com/Nescio98/MarginCall-Results/assets/101431140/0f55e943-c97a-4d1f-ae9c-dbbb128cac3c)
 
 
