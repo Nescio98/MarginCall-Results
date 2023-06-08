@@ -1,6 +1,6 @@
-# Backtest results of QQQ Mean Reversion
+# Backtest results of TLT Weekdays Flip
 
-**QQQ Mean Reversion** is a trading strategy for QQQ(Nasdaq) that takes into account RSI(Relative Strength Index) and IBS(Internal Bar Strength) indicators.
+**TLT Weekdays Flip** is a trading strategy for TLT(iShares 20+ Treasury Bonds) that takes into account weekly fluctuations of bonds
 
 </br>
 
