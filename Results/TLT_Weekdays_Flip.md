@@ -18,7 +18,7 @@
 ## Result comparison with Buy and Hold
 This image shows how the strategy **outperformed** the Buy and Hold strategy not only **overall** but especially in the worst of the **downturns** with fews negative returns.
 
-![TLT_Weekdays_Flip_vs_Buy_and_Hold](https://github.com/Nescio98/MarginCall-Results/tree/main/docs/img/TLT_Weekdays_Flip%20vs%20Buy%20and%20Hold.png)
+![TLT_Weekdays_Flip_vs_Buy_and_Hold](https://github.com/Nescio98/MarginCall-Results/blob/main/docs/img/TLT_Weekdays_Flip%20vs%20Buy%20and%20Hold.png)
 
 ## Results Year-By-Year
 
