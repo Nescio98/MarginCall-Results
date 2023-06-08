@@ -88,7 +88,7 @@ The **final equity** since January 2005 is **988%%** of the initial capital, sta
 
 
 ## Comparison with QQQ_Mean_Reversion
-This is an interesting comparison to [another strategy](https://github.com/Nescio98/MarginCall-Results/blob/26331f3108ad7ea43f155607e563ad9cd246eda5/Results/QQQ%20Mean%20Reversion/QQQ_Mean_Reversion.md) we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+This is an interesting comparison to [another strategy](https://github.com/Nescio98/MarginCall-Results/blob/main/Results/QQQ%20Mean%20Reversion/QQQ_Mean_Reversion.md) we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
 
 
 ![comparison QQQ vs TLT](https://github.com/Nescio98/MarginCall-Results/blob/2e94dbfe5cb2770bd7eb1cc8a076a693ca6a18fe/docs/img/QQQ_Mean_Reversion%20vs%20TLT_Weekdays_Flip.png)
