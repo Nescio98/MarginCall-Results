@@ -91,7 +91,7 @@ The **final equity** since January 2000 is **1673%** of the initial capital, sta
 
 
 ## Comparison with TLT_Weekdays_Flip
-This is an interesting comparison to another strategy we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+This is an interesting comparison to [another strategy](https://github.com/Nescio98/MarginCall-Results/blob/d1b4b86ca49ce25c47dc8fc35433d88bba38b236/Results/TLT%20Weekdays%20Flip/TLT_Weekdays_Flip.md) we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
 
 ![comparison QQQ vs TLT](https://github.com/Nescio98/MarginCall-Results/blob/2e94dbfe5cb2770bd7eb1cc8a076a693ca6a18fe/docs/img/QQQ_Mean_Reversion%20vs%20TLT_Weekdays_Flip.png)
 
