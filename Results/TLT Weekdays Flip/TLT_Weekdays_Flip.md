@@ -11,8 +11,8 @@
 
 * [Result comparison with Buy and Hold](#result-comparison-with-buy-and-hold)
 * [Results year per year](#results-year-by-year)
-* [Results compounding](#compounded-results-over-23-years)
-* [Comparison with TLT](#comparison-with-tlt_weekdays_flip)
+* [Results compounding](#compounded-results-over-17-years)
+* [Comparison with TLT](#comparison-with-QQQ_Mean_Reversion)
 
 
 ## Result comparison with Buy and Hold
@@ -44,7 +44,7 @@ This image shows how the strategy **outperformed** the Buy and Hold strategy not
 |  2021-2022   |    -0.15    |      -5.66      |        22       |       54.55        |      -11.27      |      -3.58       |       61.11       |
 
 
-## Compounded results over 23 years
+## Compounded results over 17 years
 
 The **final equity** since January 2005 is **988%%** of the initial capital, starting with **10 000 USD** and **allocating 100%** of equity to every trade, ie. **compounding**, including **0.05% broker's fees** on each trade
 
@@ -88,7 +88,8 @@ The **final equity** since January 2005 is **988%%** of the initial capital, sta
 
 
 ## Comparison with QQQ_Mean_Reversion
-This is an interesting comparison to [another strategy] we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+This is an interesting comparison to [another strategy](https://github.com/Nescio98/MarginCall-Results/blob/26331f3108ad7ea43f155607e563ad9cd246eda5/Results/QQQ%20Mean%20Reversion/QQQ_Mean_Reversion.md) we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+
 
 ![comparison QQQ vs TLT](https://github.com/Nescio98/MarginCall-Results/blob/2e94dbfe5cb2770bd7eb1cc8a076a693ca6a18fe/docs/img/QQQ_Mean_Reversion%20vs%20TLT_Weekdays_Flip.png)
 
