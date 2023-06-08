@@ -12,7 +12,7 @@
 * [Result comparison with Buy and Hold](#result-comparison-with-buy-and-hold)
 * [Results year per year](#results-year-by-year)
 * [Results compounding](#compounded-results-over-17-years)
-* [Comparison with TLT](#comparison-with-QQQ_Mean_Reversion)
+* [Comparison with QQQ](#comparison-with-QQQ_Mean_Reversion)
 
 
 ## Result comparison with Buy and Hold
