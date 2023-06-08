@@ -4,7 +4,7 @@
 
 </br>
 
-### **<p align="center">INTERACTIVE BACKTEST RESULTS AT THIS <a href="https://nescio98.github.io/MarginCall-Results/QQQ_Mean_Reversion.html">LINK</a></p>**
+### **<p align="center">INTERACTIVE BACKTEST RESULTS AT THIS <a href="https://nescio98.github.io/MarginCall-Results/TLT_Weekdays_Flip.html">LINK</a></p>**
 
 
 # Index
@@ -16,82 +16,79 @@
 
 
 ## Result comparison with Buy and Hold
-This image shows how the strategy **outperformed** the simple ( but great ) Buy and Hold strategy, not only **overall** but especially in the worst of the **downturns** (Dot-Com Bubble, GFC, Covid, 2022)
+This image shows how the strategy **outperformed** the Buy and Hold strategy not only **overall** but especially in the worst of the **downturns** with fews negative returns.
 
-![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/blob/45ec43702e92d3f426c7209ce2b7793356bc6f41/docs/img/QQQ_Mean_Reversion%20vs%20Buy%20n%20Hold.png)
+![TLT_Weekdays_Flip_vs_Buy_and_Hold](https://github.com/Nescio98/MarginCall-Results/blob/63a7dfc29a5082c720fe4d011794b4a27f084a0e/docs/img/TLT_Weekdays_Flip%20vs%20Buy%20and%20Hold.png)
 
 ## Results Year-By-Year
 
 
-|           | Returns % | Buy and Hold | Number of trades | % of winning trades | Max_drawdown | Avg_drawdown | Exposure_time % |
-|-----------|-----------|--------------|------------------|---------------------|--------------|--------------|-----------------|
-| 2000-2001 |   70.11   |     -36.0     |         9               |         88.89            |     -12.6       |     -5.55       |       14.29          |
-| 2001-2002 |   11.58   |     -31.17   |         9               |         77.78            |     -17.3       |     -6.0         |       19.76          |
-| 2002-2003 |   28.74   |     -37.98   |         11             |         90.91            |     -7.41       |     -5.05       |       22.22          |
-| 2003-2004 |   14.48   |     48.14     |         4               |         100.0            |     -3.84       |     -1.23       |       8.33            |
-| 2004-2005 |   11.76   |     9.19       |         7               |         100.0            |     -2.66       |     -1.79       |       12.3            |
-| 2005-2006 |   3.98     |     1.12       |         7               |         85.71             |     -2.44       |     -1.37       |       13.1            |
-| 2006-2007 |   3.49     |     6.25       |         5               |         80.0               |     -5.32       |     -1.93       |       11.55          |
-| 2007-2008 |   2.11     |     18.66     |         4               |         75.0               |     -2.72       |     -2.65       |       6.77            |
-| 2008-2009 |   31.43   |     -42.54   |         10             |         70.0               |     -19.45     |     -6.57       |       17.79          |
-| 2009-2010 |   23.53   |     55.5       |         7               |         71.43             |     -7.49       |     -2.89       |       13.89          |
-| 2010-2011 |   7.52     |     17.83     |         5               |         80.0               |     -4.27       |     -2.24       |       11.9            |
-| 2011-2012 |   9.93     |     1.64       |         8               |         87.5               |     -10.9       |     -3.05       |       12.3            |
-| 2012-2013 |   0.3       |     11.95     |         6               |         50.0               |     -4.4         |     -4.4         |       12.4            |
-| 2013-2014 |   4.35     |     31.2       |         2               |         100.0             |     -0.16       |     -0.16       |       3.17            |
-| 2014-2015 |   5.21     |     19.36     |         4               |         75.0               |     -1.64       |     -1.64       |       5.16            |
-| 2015-2016 |   2.71     |     8.78       |         6               |         83.33             |     -8.39       |     -3.15       |       8.33            |
-| 2016-2017 |   9.73     |     9.58       |         8               |         87.5               |     -3.19       |     -1.73       |       15.48          |
-| 2017-2018 |   3.23     |     31.53     |         2               |         100.0             |     -0.44       |     -0.3         |       3.59            |
-| 2018-2019 |   7.58     |     -1.33      |         6               |         83.33             |     -7.8         |     -3.91       |       11.95          |
-| 2019-2020 |   1.86     |     40.1       |         3               |         66.67             |     -3.13       |     -2.67       |       5.56            |
-| 2020-2021 |   19.57   |     45.93     |         5               |         100.0             |     -4.96       |     -3.37       |       7.91            |
-| 2021-2022 |   9.36     |     26.83     |         5               |         100.0             |     -2.09       |     -1.0         |       7.94            |
+|     Year     | Returns (%) | Buy and Hold (%) | Number of Trades | % of Winning Trades | Max Drawdown (%) | Avg Drawdown (%) | Exposure Time (%) |
+|:------------:|:-----------:|:---------------:|:---------------:|:------------------:|:----------------:|:----------------:|:-----------------:|
+|  2005-2006   |    11.33    |       4.94      |        22       |       68.18        |       -5.85      |       -1.0       |       61.11       |
+|  2006-2007   |    7.15     |      -3.54      |        22       |       63.64        |       -4.73      |      -1.29       |       61.35       |
+|  2007-2008   |    16.02    |       3.99      |        22       |       68.18        |       -2.72      |      -0.98       |       61.35       |
+|  2008-2009   |    -7.4     |       30.2      |        22       |       54.55        |      -11.83      |      -4.58       |       60.87       |
+|  2009-2010   |    23.73    |      -25.23     |        22       |       72.73        |       -9.91      |      -1.73       |       61.11       |
+|  2010-2011   |    30.89    |       4.09      |        22       |       72.73        |       -5.73      |      -1.42       |       61.11       |
+|  2011-2012   |    -9.02    |      29.95      |        22       |        50.0        |      -23.38      |      -2.35       |       61.11       |
+|  2012-2013   |    23.31    |       2.89      |        22       |       68.18        |       -6.23      |      -1.24       |       61.6        |
+|  2013-2014   |    19.15    |      -14.59     |        22       |       77.27        |       -4.81      |      -1.11       |       61.11       |
+|  2014-2015   |    20.86    |      23.57      |        22       |       72.73        |       -4.49      |      -0.92       |       61.11       |
+|  2015-2016   |    33.32    |      -4.53      |        22       |       72.73        |       -7.39      |      -1.59       |       61.11       |
+|  2016-2017   |    14.09    |      -2.58      |        22       |       54.55        |       -6.63      |      -1.33       |       61.11       |
+|  2017-2018   |    -3.21    |       6.83      |        22       |       45.45        |       -8.09      |      -3.68       |       61.35       |
+|  2018-2019   |    15.68    |      -4.62      |        22       |       72.73        |       -4.07      |      -1.06       |       61.35       |
+|  2019-2020   |    19.45    |      11.96      |        22       |       68.18        |       -5.63      |      -1.31       |       61.11       |
+|  2020-2021   |    11.57    |      15.11      |        22       |       54.55        |      -11.03      |      -2.71       |       60.87       |
+|  2021-2022   |    -0.15    |      -5.66      |        22       |       54.55        |      -11.27      |      -3.58       |       61.11       |
 
 
 ## Compounded results over 23 years
 
-The **final equity** since January 2000 is **1673%** of the initial capital, starting with **10 000 USD** and **allocating 100%** of equity to every trade, ie. **compounding**, including **0.05% broker's fees** on each trade
+The **final equity** since January 2005 is **988%%** of the initial capital, starting with **10 000 USD** and **allocating 100%** of equity to every trade, ie. **compounding**, including **0.05% broker's fees** on each trade
 
 ### Strenghts:
-* It never had a negative yearly return in the last 23 years
-* Maximum drawdown of -19%
-* Exposure time of only 11%
+* It had only 3 negative yearly returns over 17 years
+* Maximum drawdown of -23.4%
+* High yearly returns overall
 
 
-| Metric                     | Value              |
-|----------------------------|--------------------|
-| Start                      | 2000-01-03 00:00:00|
-| End                        | 2023-06-07 00:00:00|
-| Duration                   | 8556 days 00:00:00 |
-| Exposure Time [%]          | 11.518236          |
-| Equity Final [$]           | 177342.875828      |
-| Equity Peak [$]            | 177342.875828      |
-| Return [%]                 | 1673.428758        |
-| Buy & Hold Return [%]      | 269.034305         |
-| Return (Ann.) [%]          | 13.079637          |
-| Volatility (Ann.) [%]      | 14.386543          |
-| Sharpe Ratio               | 0.909158           |
-| Sortino Ratio              | 2.017805           |
-| Calmar Ratio               | 0.670973           |
-| Max. Drawdown [%]          | -19.493541         |
-| Avg. Drawdown [%]          | -3.429956          |
-| Max. Drawdown Duration     | 218 days 00:00:00  |
-| Avg. Drawdown Duration     | 37 days 00:00:00   |
-| # Trades                   | 149                |
-| Win Rate [%]               | 83.892617          |
-| Best Trade [%]             | 16.783713          |
-| Worst Trade [%]            | -12.69852          |
-| Avg. Trade [%]             | 1.95076            |
-| Max. Trade Duration        | 18 days 00:00:00   |
-| Avg. Trade Duration        | 6 days 00:00:00    |
-| Profit Factor              | 6.600219           |
-| Expectancy [%]             | 2.005584           |
-| SQN                        | 7.285934           |
+
+|            Metric             |         Value          |
+|:-------------------------------:|:----------------------:|
+|            Start              |  2005-01-03 00:00:00   |
+|             End               |  2023-06-08 00:00:00   |
+|           Duration            |    6730 days 00:00:00  |
+|      Exposure Time [%]        |       66.637931       |
+|       Equity Final [$]        |     98815.136964      |
+|        Equity Peak [$]        |     102954.76958      |
+|         Return [%]            |       888.15137       |
+|    Buy & Hold Return [%]      |       14.588574       |
+|      Return (Ann.) [%]        |       13.247652       |
+|    Volatility (Ann.) [%]      |       12.998498       |
+|         Sharpe Ratio          |       1.019168        |
+|        Sortino Ratio          |       1.761362        |
+|         Calmar Ratio          |       0.566055        |
+|      Max. Drawdown [%]        |      -23.403488       |
+|      Avg. Drawdown [%]        |      -1.845896        |
+| Max. Drawdown Duration  | 476 days 00:00:00  |
+| Avg. Drawdown Duration   |  30 days 00:00:00   |
+|            # Trades           |          442           |
+|       Win Rate [%]        |       62.443439       |
+|        Best Trade [%]         |       6.721988        |
+|       Worst Trade [%]         |      -8.172964        |
+|       Avg. Trade [%]         |       0.520562        |
+|    Max. Trade Duration  |  13 days 00:00:00   |
+|   Avg. Trade Duration    |  10 days 00:00:00   |
+|         Profit Factor         |       1.926831        |
+|       Expectancy [%]        |       0.543089        |
+|             SQN               |       4.109203         |
 
 
-## Comparison with TLT_Weekdays_Flip
-This is an interesting comparison to another strategy we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+
+## Comparison with QQQ_Mean_Reversion
+This is an interesting comparison to [another strategy] we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
 
 ![comparison QQQ vs TLT](https://github.com/Nescio98/MarginCall-Results/blob/2e94dbfe5cb2770bd7eb1cc8a076a693ca6a18fe/docs/img/QQQ_Mean_Reversion%20vs%20TLT_Weekdays_Flip.png)
 
