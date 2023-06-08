@@ -7,14 +7,17 @@ Live backtest result at this [link](https://nescio98.github.io/MarginCall-Result
 # Index
 
 * [Result comparison with Buy and Hold](#result-comparison-with-buy-and-hold)
-* [Results year per year](#results-year-per-year)
+* [Results year per year](#results-year-by-year)
 * [Results compounding](#results-compounding)
 * [Comparison with TLT](#comparison-with-tlt)
 
 
 ## Result comparison with Buy and Hold
+This image shows how the strategy **outperformed** the simple ( but great ) Buy and Hold strategy, not only **overall** but especially in the worst of the **downturns** (Dot-Com Bubble, GFC, Covid, 2022)
+
 ![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/assets/101431140/8534e5fe-67ab-402b-9566-bd732bd754ca)
 
+## Results Year-By-Year
 
 
 |           | Returns % | Buy and Hold | Number of trades | % of winning trades | Max_drawdown | Avg_drawdown | Exposure_time % |
@@ -86,6 +89,7 @@ The **final equity** since January 2000 is **1673%** of the initial capital, sta
 
 ## Comparison with TLT_Weekdays_Flip
 This is an interesting comparison to another strategy we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+
 ![image_2023-06-07_01-51-10](https://github.com/Nescio98/MarginCall-Results/assets/101431140/0f55e943-c97a-4d1f-ae9c-dbbb128cac3c)
 
 
