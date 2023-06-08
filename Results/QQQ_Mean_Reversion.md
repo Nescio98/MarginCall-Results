@@ -18,7 +18,7 @@
 ## Result comparison with Buy and Hold
 This image shows how the strategy **outperformed** the simple ( but great ) Buy and Hold strategy, not only **overall** but especially in the worst of the **downturns** (Dot-Com Bubble, GFC, Covid, 2022)
 
-![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/blob/45ec43702e92d3f426c7209ce2b7793356bc6f41/docs/img/QQQ_Mean_Reversion%20vs%20Buy%20n%20Hold.png)
+![QQQ_Mean_Reversion vs Buy and Hold](https://github.com/Nescio98/MarginCall-Results/blob/main/docs/img/QQQ_Mean_Reversion%20vs%20Buy%20n%20Hold.png)
 
 ## Results Year-By-Year
 
@@ -91,7 +91,7 @@ The **final equity** since January 2000 is **1673%** of the initial capital, sta
 
 
 ## Comparison with TLT_Weekdays_Flip
-This is an interesting comparison to [another strategy](https://github.com/Nescio98/MarginCall-Results/blob/main/Results/TLT%20Weekdays%20Flip/TLT_Weekdays_Flip.md) we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
+This is an interesting comparison to [another strategy](https://github.com/Nescio98/MarginCall-Results/blob/main/Results/TLT_Weekdays_Flip.md) we backtested. They seem to have **complementary returns**, covering each other in their respective worst years. Also, they are strategies on **not correlated instruments** ( QQQ vs. TLT).
 
 ![comparison QQQ vs TLT](https://github.com/Nescio98/MarginCall-Results/blob/main/docs/img/QQQ_Mean_Reversion%20vs%20TLT_Weekdays_Flip.png)
 
